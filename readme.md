@@ -26,4 +26,4 @@ Eu também sou um [artista](https://www.instagram.com/muriilouwu/).
 
 ### Projetos :|
 
-Eu não estou trabalhando em nenhum projeto no moomento, mas sou todo ouvidos a novas sugestões. 
+Eu não estou trabalhando em nenhum projeto no momento, mas sou todo ouvidos a novas sugestões. 
