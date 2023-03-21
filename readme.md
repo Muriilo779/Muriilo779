@@ -1,7 +1,7 @@
 ## 👋 Hi 
 ### Trying to enter in this computers world - or maybe trying to use Java.
 
-I’m currently learning Java, and always trying to learn more things. But i already know:
+I’m currently learning GameMaker Language, and always trying to learn more things. But i already know:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -9,14 +9,14 @@ I’m currently learning Java, and always trying to learn more things. But i alr
 
 I'm also an [artist](https://www.instagram.com/muriilouwu/).
 
-### Projects :|
+### Projects 👾 
 
-I'm not working on any projects at the moment, but I'm free to listen to new suggestions. 
+I'm in the moment working in a match 3 game on the engine GameMaker 2, for now the repository will stay private. 
 
 ## 👋 Oi
 ### Tentando entrar nesse mundo de computadores - ou pelo menos tentando usar Java.
 
-Eu estou no momento aprendendo  Java, e sempre tentando aprender coisas novas. Mas eu já sei:
+Eu estou no momento aprendendo  GameMaker Language, e sempre tentando aprender coisas novas. Mas eu já sei:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,6 +24,6 @@ Eu estou no momento aprendendo  Java, e sempre tentando aprender coisas novas. M
 
 Eu também sou um [artista](https://www.instagram.com/muriilouwu/).
 
-### Projetos :|
+### Projetos 👾 
 
-Estou desenvolvendo um jogo match 3 no motor de jogos GameMaker no momento, por enquanto o repositório do projeto estará no privado.
+Estou desenvolvendo um jogo match 3 no motor de jogos GameMaker 2 no momento, por enquanto o repositório do projeto estará no privado.
