@@ -26,4 +26,4 @@ Eu também sou um [artista](https://www.instagram.com/muriilouwu/).
 
 ### Projetos :|
 
-Eu não estou trabalhando em nenhum projeto no momento, mas sou todo ouvidos a novas sugestões. 
+Estou desenvolvendo um jogo match 3 no motor de jogos GameMaker no momento, por enquanto o repositório do projeto estará no privado.
