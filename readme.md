@@ -1,7 +1,7 @@
 ## 👋 Hi 
 ### Trying to enter in this computers world - or maybe trying to use Java.
 
-I’m currently learning GameMaker Language, and always trying to learn more things. But i already know:
+I’m currently learning C#, and always trying to learn more things. But i already know:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,12 +11,12 @@ I'm also an [artist](https://www.instagram.com/muriilouwu/).
 
 ### Projects 👾 
 
-I'm in the moment working in a match 3 game on the engine GameMaker 2, for now the repository will stay private. 
+I'm in the moment working to improve myself by learning new languages, as I said before with C#. 
 
 ## 👋 Oi
 ### Tentando entrar nesse mundo de computadores - ou pelo menos tentando usar Java.
 
-Eu estou no momento aprendendo  GameMaker Language, e sempre tentando aprender coisas novas. Mas eu já sei:
+Eu estou no momento aprendendo  C#, e sempre tentando aprender coisas novas. Mas eu já sei:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,4 +26,4 @@ Eu também sou um [artista](https://www.instagram.com/muriilouwu/).
 
 ### Projetos 👾 
 
-Estou desenvolvendo um jogo match 3 no motor de jogos GameMaker 2 no momento, por enquanto o repositório do projeto estará no privado.
+Estou no momento focando em me aperfeiçoar aprendendo novas linguagens, como eu disse anteriormente com C#.
