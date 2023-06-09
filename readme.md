@@ -11,5 +11,5 @@
 ![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 I'm also an [artist](https://www.instagram.com/muriilouwu/).
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muriilo779&layout=compact)
- 
+[![GITSTATS](https://github-readme-stats.vercel.app/api?username=muriilo779&theme=noctis_minimus&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muriilo779&layout=compact&theme=noctis_minimus)
