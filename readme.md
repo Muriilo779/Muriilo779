@@ -10,5 +10,5 @@
 ![CPLUSPLUS](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-[![GITSTATS](https://github-readme-stats.vercel.app/api?username=muriilo779&theme=noctis_minimus&rank_icon=github)]
+[![GITSTATS](https://github-readme-stats.vercel.app/api?username=muriilo779&theme=noctis_minimus&rank_icon=github)]()
 ![TOPLANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=muriilo779&layout=compact&theme=noctis_minimus)
