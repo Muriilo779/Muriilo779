@@ -11,4 +11,5 @@
 ![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 I'm also an [artist](https://www.instagram.com/muriilouwu/).
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muriilo779&layout=compact)
  
